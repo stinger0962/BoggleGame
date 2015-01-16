@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BoggleGame]">
+  <test name="TestNG tests(failed)">
+    <classes>
+      <class name="WordListNGTest">
+        <methods>
+          <include name="testExceptions"/>
+        </methods>
+      </class> <!-- WordListNGTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [BoggleGame] -->
